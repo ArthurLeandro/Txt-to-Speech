@@ -1,0 +1,15 @@
+{
+  "name": "text-to-speech",
+  "version": "1.0.0",
+  "description": "Regular text-to-speech that uses an txt and export it so you could use it to take fo\u001b[1;6D\u001b[3\u001b[3~\u001b[3~\u001b[3make for example an Audiobook of whatever book in txt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arthur Santos Leandro",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "say": "^0.16.0"
+  }
+}
